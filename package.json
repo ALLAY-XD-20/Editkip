@@ -1,0 +1,13 @@
+{
+  "name": "editkip",
+  "version": "1.0.0",
+  "description": "AI video-editing skill + slash commands for CapCut desktop. Installs globally into Antigravity and Claude Code.",
+  "bin": { "editkip": "bin/editkip.js" },
+  "files": ["bin", "skills", "workflows", "README.md", "LICENSE"],
+  "engines": { "node": ">=16.7" },
+  "keywords": ["capcut", "video-editing", "ai", "skill", "antigravity", "claude-code", "agent"],
+  "repository": { "type": "git", "url": "git+https://github.com/ALLAY-XD-20/Editkip.git" },
+  "homepage": "https://github.com/ALLAY-XD-20/Editkip",
+  "bugs": { "url": "https://github.com/ALLAY-XD-20/Editkip/issues" },
+  "license": "MIT"
+}
